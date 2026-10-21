@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/robotic-packaging-line-transfer-explainer/
 
+Repository: https://github.com/mizcausevic-dev/robotic-packaging-line-transfer-explainer
+
 ## What this is
 
 An interactive anatomy plate for Robotic Packaging-Line Transfer. Play, scrub, or jump the five stages. The same frame always draws the same picture.
